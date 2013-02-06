@@ -1,7 +1,7 @@
 Webdesign-Podcast-SlideShow
 ===========================
 
-The Webdesign-Podcast.de SlideShow Plugin is an easy to use MultiMedia Slider with some greate and dynamic effects. This jQuery Plugin has a lot settings and is fully customizable.
+The Webdesign-Podcast.de SlideShow Plugin is an easy to use MultiMedia Slider with some greate and dynamic effects. This jQuery Plugin has a lot of settings and is fully customizable.
 
 Webdesign-Podcast.de SlideShow v.1.5.0
 
