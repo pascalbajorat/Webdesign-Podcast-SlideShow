@@ -83,6 +83,6 @@ Licensed under Gnu GPL version 3 licenses.
 ## [Main Demo](http://www.webdesign-podcast.de/wp-content/uploads/2011/06/webdesign-podcast-slider/)
 
 * [Documentation](https://github.com/pascalbajorat/Webdesign-Podcast-SlideShow/wiki/Documentation)
-* [Latest demos](http://www.webdesign-podcast.de/wp-content/uploads/2011/06/webdesign-podcast-slider/)
+* [Homepage](http://www.webdesign-podcast.de/2011/06/27/modernes-webdesign-podcast-jquery-slideshow-plugin/)
 * [Download](https://github.com/pascalbajorat/Webdesign-Podcast-SlideShow/zipball/master)
 * [Author](https://www.pascal-bajorat.com/)
